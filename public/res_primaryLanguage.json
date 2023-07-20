@@ -11,38 +11,14 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Horned-Beast",
+      "startDate": "2023",
+      "description": "My first project created introducing React.  This project also introduced sort and filterBy.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/photography/dusan-veverkolog-stzMfOLJqCo-unsplash.jpg",
+        "images/portfolio/photography/jessica-bateman-nZ14KVfjzGU-unsplash.jpg"
       ],
       "url": "",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -51,33 +27,38 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        "Bootstrap"
+        ]
+    },
+    {
+      "title": "Pat's Coffee Shop",
+      "startDate": "2023",
+      "description": "An earlier school project created to show how to combine webpages into one website with hyperlinks.  This page features a front page for the shop, a product page, and a purchase page.",
+      "images": [
+        "images/Pat-Coffee.png",
+        "images/Purchase.png"
+      ],
+      "url": "https://kil91402.github.io/cookie-stand/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         }
+        
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Chocolate Pizza",
+      "startDate": "2023",
+      "description": "This was a project made with just .css.  We were to recreate a page called Chocolate Pizza but could only use .css.  I was able to make the page look as close to exact as the original.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/choco-pizza.png"
+        
       ],
-      "url": "https://github.com",
+      "url": "https://kil91402.github.io/chocolate-pizza/",
       "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    }
+       "Css Only"
   ],
   "experience": [
     {
