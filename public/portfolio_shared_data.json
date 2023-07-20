@@ -2,21 +2,21 @@
   "basic_info": {
     "name": "Ajamu Page",
     "titles": [
-      "Software Developer"
+      "Educational Counselor/Future Software Developer"
     ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github/kil91402.com",
         "class": "fab fa-github"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ajamu-page-b47268165/",
+        "class": "fab fa-linkedin"
       }
     ],
-    "image": "myProfile.jpg"
+    "image": "Mu.jpg"
   },
   "skills": {
     "icons": [
