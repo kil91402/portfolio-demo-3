@@ -27,6 +27,8 @@ html {
 .header-icon {
 	height: 150px;
 	width: 150px;
+	color: black;
+
 }
 
 header {
@@ -38,7 +40,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #84e5e9;
+	background-image: url("../public/images/sigmund-exVRu6ffK24-unsplash.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -51,13 +53,41 @@ header .nav {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
+	color: black;
+
 }
 
 .github-corner:hover .octo-arm {
-	animation:octocat-wave 560ms ease-in-out
+	animation: octocat-wave 560ms ease-in-out
 }
 
-@keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+@keyframes octocat-wave {
+
+	0%,
+	100% {
+		transform: rotate(0)
+	}
+
+	20%,
+	60% {
+		transform: rotate(-25deg)
+	}
+
+	40%,
+	80% {
+		transform: rotate(10deg)
+	}
+}
+
+@media (max-width:500px) {
+	.github-corner:hover .octo-arm {
+		animation: none
+	}
+
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out
+	}
+}
 
 .language-icon {
 	font-size: 50px;
@@ -95,7 +125,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: black;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -383,6 +413,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
